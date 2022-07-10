@@ -10,6 +10,7 @@ pandas = "^1.4.3"
 holidays = "^0.14.2"
 ipykernel = "^6.15.0"
 flatten-json = "^0.1.13"
+notebook = "^6.4.12"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
